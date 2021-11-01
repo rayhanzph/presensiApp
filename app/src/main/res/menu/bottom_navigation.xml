@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Home"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+
+    <item
+        android:id="@+id/Requestijin"
+        android:title="Request Izin"
+        android:icon="@drawable/message"/>
+
+    <item
+        android:id="@+id/Rekap"
+        android:title="Rekap"
+        android:icon="@drawable/paper"/>
+
+    <item
+        android:id="@+id/Profile"
+        android:title="Profile"
+        android:icon="@drawable/profile"/>
+</menu>
